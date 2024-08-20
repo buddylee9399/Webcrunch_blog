@@ -96,3 +96,4 @@ Ultimately, the point of this tutorial and video is to help anyone new to the fr
   ```
 
  Continue reading at [Web-Crunch.com](https://web-crunch.com/lets-build-with-ruby-on-rails-blog-with-comments)
+# Webcrunch_blog
